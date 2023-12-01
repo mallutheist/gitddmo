@@ -1,2 +1,6 @@
-hi am ajmal
-this iss version 1
+hi am not ajmal
+this iss version 2
+
+to chnage remote origin 
+1.git remote -v // will show the current version
+2.git remote set-url origin <new-remote-url>
